@@ -1,4 +1,5 @@
-Hi, I’m @mircopergreffi<!--
+Hi, I’m @mircopergreffi
+<!--
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning how to trade safely during a period of increased market volatility
 - 💞️ I’m looking to collaborate on ...
