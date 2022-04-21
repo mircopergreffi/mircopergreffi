@@ -1,4 +1,8 @@
 Hi, I’m @mircopergreffi
+
+Here you can find my powershell script for installing programs when I do a fresh install:
+[winget_essentials.ps1](./winget_essentials.ps1)
+
 <!--
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning how to trade safely during a period of increased market volatility
