@@ -73,3 +73,9 @@ winget install -e --id Valve.Steam
 # winget install -e --id RaspberryPiFoundation.RaspberryPiImager
 # winget install -e --id PrimateLabs.Geekbench.5
 # winget install -e --id Piriform.CCleaner
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#                 Enable Windows Features                 #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+dism /online /NoRestart /Enable-Feature /FeatureName:Microsoft-Hyper-V-All
+dism /online /NoRestart /Enable-Feature /FeatureName:Microsoft-Windows-Subsystem-Linux
