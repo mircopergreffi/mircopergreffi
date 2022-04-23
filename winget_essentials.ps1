@@ -16,7 +16,7 @@ winget install -e --id Spicebrains.Instant-Eyedropper
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #                        Security                         #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-winget install -e --id Bitwarden.Bitwarden
+# winget install -e --id Bitwarden.Bitwarden
 # winget install -e --id EFF.Certbot
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
