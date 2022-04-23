@@ -31,8 +31,8 @@ winget install -e --id Discord.Discord
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 winget install -e --id VideoLAN.VLC
 winget install -e --id Spotify.Spotify
-# winget install -e --id OBSProject.OBSStudio
-# winget install -e --id BlenderFoundation.Blender
+winget install -e --id OBSProject.OBSStudio
+winget install -e --id BlenderFoundation.Blender
 # winget install -e --id Audacity.Audacity
 # winget install -e --id Cockos.REAPER
 
