@@ -23,7 +23,7 @@ winget install -e --id Spicebrains.Instant-Eyedropper
 #                         Social                          #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 winget install -e --id Telegram.TelegramDesktop
-winget install -e --id WhatsApp.WhatsApp
+# winget install -e --id WhatsApp.WhatsApp
 winget install -e --id Discord.Discord
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
