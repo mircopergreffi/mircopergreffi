@@ -50,7 +50,7 @@ winget install -e --id GitHub.GitHubDesktop
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #                       3D Printing                       #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-winget install -e --id Ultimaker.Cura
+# winget install -e --id Ultimaker.Cura
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #                   CAD/CAE Engineering                   #
