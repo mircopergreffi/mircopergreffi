@@ -43,7 +43,7 @@ Embrace your camera strengths.
 
 ### Enemies
 1. Clipped Hightlights: color-grading these areas just give white/gray;
-2. Noisy Shadow: color-grading black areas gives noise;\
+2. Noisy Shadow: color-grading black areas gives noise;
 3. Compression: limited high moving details due to write speed;
 4. Sharpening;
 5. Over saturaed colors: like clipped highliths;
@@ -55,3 +55,8 @@ Light vs random energy noise.
 
 ### Color Grading with ZONE System
 11 zones from 0 to 10. Every element in the scene have a zone, with an associated percentage of the dynamic range.
+
+## EP2 - How to Actually Edit Videos
+## EP3 - How to Make Anything Look Photoreal
+## EP4 - Turning Ideas into Good Videos
+## EP5 - How to Tell a Story About Anything
