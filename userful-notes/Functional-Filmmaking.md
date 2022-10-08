@@ -94,5 +94,27 @@ Reflect on the time you spent working and how it came out.
 Ask yourself what worked with the content, with the workflow, what felt right.  
 Ask yourself what didn't worked, what wasted time, what can you do better next time.  
 
-
 ## EP5 - How to Tell a Story About Anything
+
+Tools for a story are elments such as characters, real life events, creative constraints.  
+  
+A story is comprised of: a character, a plot, an empathetic objective and an obstacle.  
+Identify: character's motivations, character's obstacles.  
+A good story needs a conflict, the less confidence the main characters has going into their journey the better the story will be.  
+
+It is important to recognize wheter a story has potential for resolution and character development.
+A. Personal growth arc
+B. Comedic character arc
+C.   
+
+While shooting the video is continuosly evolving, film the intro last.  
+Promote spontaneity over calculation.  
+
+Resolution debrief: once the character has completed goals for the scene (in victory or defeat), capture a little talking heads about their experiences and their progress.  
+
+Pay attention of what you capture, otherwise you'll spend more time reviewing the footage. Tips to decide what to prioritize while filming:
+- Contextual moments where the character explains;
+- B-roll of the context;
+- Timelapses;
+- Ask yourself: "will this be in my edit?";
+- Steer the character in a direction that is more valuable.
